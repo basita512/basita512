@@ -6,13 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/justAnotherDevv" target="blank"><img src="https://img.shields.io/twitter/follow/justAnotherDevv?logo=twitter&style=for-the-badge" alt="justAnotherDevv" /></a> </p>
 
-- 🔭 I'm currently working on **RAG systems**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
 - 📫 How to reach me **mail2basita@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/basita512](https://github.com/basita512)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
