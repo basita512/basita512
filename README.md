@@ -1,24 +1,88 @@
-# Hi 👋, I'm Basita Tashfeen
-
-### A passionate AI developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basita512&label=Profile views&color=0e75b6&style=flat" alt="basita512" /> </p>
-
-<p align="left"> <a href="https://twitter.com/justAnotherDevv" target="blank"><img src="https://img.shields.io/twitter/follow/justAnotherDevv?logo=twitter&style=for-the-badge" alt="justAnotherDevv" /></a> </p>
-
-- 📫 How to reach me **mail2basita@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/basita512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="basita512" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/basita-tashfeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basita-tashfeen" height="30" width="40" /></a>
-<a href="https://twitter.com/justAnotherDevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justAnotherDevv" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=ffffff&text=Basita%20Tashfeen&fontSize=70&desc=Software%20Engineer&descSize=25&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<h1 align="center">Basita Tashfeen</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basita512&show_icons=true&locale=en&layout=compact" alt="basita512" /></p>
+<p align="center">
+  <a href="https://basitatashfeen.com"><b>Portfolio Website</b></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basita512&show_icons=true&locale=en" alt="basita512" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basita512&base=1126&style=flat-square&color=222222&label=SYSTEM_ACCESS_VIEWS" alt="View Count" />
+</p>
 
+> "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90% of the development time."
+
+---
+
+### Core Competencies
+* **LLM Orchestration:** Designing FSM-based guardrails and complex tool-calling logic.
+* **Production Grade RAG:** Architecting high-precision retrieval for mission-critical data.
+* **Real-Time Voice AI:** Engineering low-latency streaming pipelines for STT and TTS.
+* **Systems Engineering:** Building robust, distributed architectures designed for high availability and horizontal scalability.
+
+---
+
+### Technical Inventory
+
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-222222?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-222222?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-222222?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-222222?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-222222?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-222222?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Gen AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-222222?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=graphviz&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-222222?style=flat-square&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-222222?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-222222?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-222222?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-222222?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-222222?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+### Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basita512&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
+</p>
+
+---
+
+### Contact Terminal
+* **Mail:** mail2basita@gmail.com
+* **LinkedIn:** [basita-tashfeen](https://linkedin.com/in/basita-tashfeen)
+* **X:** [@justAnotherDevv](https://x.com/justAnotherDevv)
